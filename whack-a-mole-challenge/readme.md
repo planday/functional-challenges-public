@@ -1,21 +1,18 @@
-#Planday Fun Fair has a problem!
+Case - Whack-a-mole bonanza!
 
-Our Plandaynéros has decided to create a fun fair, because.. it’s fun!
+‘Whack a mole’ is one of our top attractions, but the other day one of the kids dropped his icecream into the machine, and now it’s malfunctioning. Can you help us get the machine up and running again?
 
-But some of the activities are not yet working like they should, luckily we got you to help us out!
-We need you to help fix the broken activities, so our guests can have fun again :)
+Props provided
+The machine is there, it’s just not working at the moment :(
 
-#Case - The Ferris Wheel disaster!
-
-oh snap! our ferris wheel stopped turning! it’s a disaster, some of our Plandaynéros are trapped up there, please help us make the ferris wheel turn again.
 
 ![alt text](https://github.com/planday-engineering/functional-challenges-public/blob/main/whack-a-mole-challenge/what-a-mole.jpg)
 
-Step 1. Open the Ferris wheel challenge PDF file
+Step 1. Open the What a mole PDF file
 
 Step 2. Read the assignment description
 
-Step 3. Download the ferris-wheel-assets.zip file
+Step 3. Download the whack-a-mole-assets.zip file
 
 Step 4. Complete the challenge - remember to have fun! :)
 
