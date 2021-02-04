@@ -9,7 +9,7 @@ We need you to help fix the broken activities, so our guests can have fun again 
 
 oh snap! our ferris wheel stopped turning! it’s a disaster, some of our Plandaynéros are trapped up there, please help us make the ferris wheel turn again.
 
-![alt text](https://github.com/planday-engineering/functional-challenges-public/blob/main/whack-a-mole-challengee/whack-a-mole.jpg)
+![alt text](https://github.com/planday-engineering/functional-challenges-public/blob/main/whack-a-mole-challengee/what-a-mole.jpg)
 
 Step 1. Open the Ferris wheel challenge PDF file
 
