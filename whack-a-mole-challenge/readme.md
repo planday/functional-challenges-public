@@ -15,7 +15,7 @@ The machine is there, it’s just not working at the moment :(
 
 ![alt text](https://github.com/planday-engineering/functional-challenges-public/blob/main/whack-a-mole-challenge/what-a-mole.jpg)
 
-Step 1. Open the What a mole PDF file
+Step 1. Open the Whack a mole PDF file
 
 Step 2. Read the assignment description
 
