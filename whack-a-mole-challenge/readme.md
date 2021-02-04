@@ -1,4 +1,11 @@
-# Case - Whack-a-mole bonanza!
+# Planday Fun Fair has a problem!
+
+Our Plandaynéros has decided to create a fun fair, because.. it’s fun!
+
+But some of the activities are not yet working like they should, luckily we got you to help us out!
+We need you to help fix the broken activities, so our guests can have fun again :)
+
+## Case - Whack-a-mole bonanza!
 
 ‘Whack a mole’ is one of our top attractions, but the other day one of the kids dropped his icecream into the machine, and now it’s malfunctioning. Can you help us get the machine up and running again?
 
