@@ -1,4 +1,4 @@
-Case - Whack-a-mole bonanza!
+# Case - Whack-a-mole bonanza!
 
 ‘Whack a mole’ is one of our top attractions, but the other day one of the kids dropped his icecream into the machine, and now it’s malfunctioning. Can you help us get the machine up and running again?
 
