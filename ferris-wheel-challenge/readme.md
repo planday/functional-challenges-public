@@ -1,3 +1,14 @@
+#Planday Fun Fair has a problem!
+
+Our Plandaynéros has decided to create a fun fair, because.. it’s fun!
+
+But some of the activities are not yet working like they should, luckily we got you to help us out!
+We need you to help fix the broken activities, so our guests can have fun again :)
+
+#Case - The Ferris Wheel disaster!
+
+oh snap! our ferris wheel stopped turning! it’s a disaster, some of our Plandaynéros are trapped up there, please help us make the ferris wheel turn again.
+
 ![alt text](https://github.com/planday-engineering/functional-challenges-public/blob/main/ferris-wheel-challenge/Ferris-Wheel.jpg)
 
 Step 1. Open the Ferris wheel challenge PDF file
