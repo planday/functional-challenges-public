@@ -1,3 +1,4 @@
+![alt text](https://github.com/planday-engineering/functional-challenges-public/blob/main/ferris-wheel-challenge/Ferris-Wheel.jpg)
 
 Step 1. Open the Ferris wheel challenge PDF file
 
